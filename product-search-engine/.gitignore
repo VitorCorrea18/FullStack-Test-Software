@@ -1,0 +1,29 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Environment folder
+env/
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE files
+.vscode/
+.idea/
+
+# Other
+*.pyo
+*.swp
+*~
+.DS_Stoe
+
